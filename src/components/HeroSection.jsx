@@ -1,5 +1,5 @@
 import React from "react";
-import HomeImage from "../assets/images/DP Portfolio.jpeg";
+import HomeImage from "../assets/images/DP-Portfolio.jpeg";
 
 const HeroSection = () => {
   return (
