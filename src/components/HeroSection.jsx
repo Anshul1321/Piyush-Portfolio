@@ -1,5 +1,4 @@
 import React from "react";
-import HomeImage from "../assets/images/DP-Portfolio.jpeg";
 
 const HeroSection = () => {
   return (
@@ -34,7 +33,7 @@ const HeroSection = () => {
           {/* Right Section - Image */}
           <div className="md:w-1/3 mt-6 md:mt-0">
             <img
-              src={HomeImage}
+              src="/images/Dp-portfolio.jpeg"
               alt="Piyush Garg - Full Stack Developer"
               className="w-full h-auto rounded-lg shadow-lg"
               title="Piyush Garg"
