@@ -1,9 +1,9 @@
-# 🚀 Saam Sheron Portfolio
+# 🚀 Piyush Garg Portfolio
 
-Welcome to my portfolio repository! This project showcases my work as a **MERN Stack Developer** and highlights my projects, skills, and professional achievements.
+Welcome to my portfolio repository! This project showcases my work as a **Full Stack Developer** and highlights my projects, skills, and professional achievements.
 
 ## 🖥️ Live Portfolio  
-Check out the live version here: [**Saam Sheron Portfolio**](https://saam-sheron.vercel.app/)
+Check out the live version here: [**Piyush Garg Portfolio**]()
 
 ---
 
@@ -61,7 +61,7 @@ public/
 - **JSON-LD Schema**: Structured data for search engines.  
 - **Descriptive Alt Attributes**: Added for all images, such as:  
   ```html
-  <img src="skyfreight.png" alt="SkyFreight - Air Cargo Transport Website" />
+  <img src="skytrans.png" alt="SkyTrans - Air Cargo Transport Website" />
   ```
 - **Fast Performance**: Optimized build with Vite for better Lighthouse scores.  
 
@@ -69,21 +69,21 @@ public/
 
 ## 📧 Contact Me
 Feel free to reach out:  
-- **Portfolio**: [saam-sheron.vercel.app](https://saam-sheron.vercel.app/)  
-- **Email**: saamsallvin@gmail.com  
-- **LinkedIn**: [linkedin.com/in/saam-sheron](https://linkedin.com/in/saam-sheron)  
-- **GitHub**: [github.com/saam-rgb](https://github.com/saam-rgb)  
+- **Portfolio**: []()  
+- **Email**: piyushgarg1321@gmail.com  
+- **LinkedIn**: [https://www.linkedin.com/in/piyush-garg-4a0b68237](https://www.linkedin.com/in/piyush-garg-4a0b68237)  
+- **GitHub**: [https://github.com/Anshul1321](https://github.com/Anshul1321)  
 
 ---
 
 ## 🚀 How to Run Locally
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/saam-rgb/saam-sheron.git
+   git clone https://github.com/Anshul1321/Piyush-Portfolio.git
    ```
 2. Navigate to the project folder:  
    ```bash
-   cd saam-sheron
+   cd piyush-garg
    ```
 3. Install dependencies:  
    ```bash
@@ -105,4 +105,4 @@ This project is **open-source** and available under the MIT License.
 
 ---
 
-### 🎨 Designed & Developed by [**Saam Sheron**](https://linkedin.com/in/saam-sheron)  
+### 🎨 Designed & Developed by [**Piyush Garg**](https://www.linkedin.com/in/piyush-garg-4a0b68237)  
