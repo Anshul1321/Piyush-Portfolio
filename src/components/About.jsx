@@ -1,5 +1,5 @@
 import React from "react";
-import AboutImage from "../assets/images/dp-kanch.jpg";
+import AboutImage from "../assets/images/dev-image.jpg";
 
 const About = () => {
   return (
@@ -24,12 +24,10 @@ const About = () => {
           <div className="md:w-2/3 md:px-8">
             <div className="text-[#333333]">
               <p className="mb-4 text-justify">
-                Hi, I'm <strong>Saam Sheron</strong>, a passionate{" "}
-                <strong>MERN Stack Developer</strong> with expertise in{" "}
-                <strong>React</strong>, <strong>Node.js</strong>,{" "}
-                <strong>MongoDB</strong>, and <strong>Express.js</strong>. From
-                creating my first Flutter music app to developing full-stack web
-                applications, I've always been excited about leveraging
+                Hi, I'm <strong>Piyush Garg</strong>, a passionate{" "}
+                <strong>Full Stack Developer</strong> with expertise in{" "}
+                <strong>React</strong>, <strong>Django</strong>, <strong>Node.js</strong>,{" "}
+                <strong>MongoDB</strong>, and <strong>Express.js</strong>. I've always been excited about leveraging
                 technology to create impactful solutions.
               </p>
               <p className="mb-4 text-justify">
@@ -43,16 +41,14 @@ const About = () => {
               <p className="mb-4 text-justify">
                 Currently, I am working as a part of a collaborative team on
                 various projects, including an{" "}
-                <strong>e-commerce platform</strong> built using the MERN stack.
+                <strong>Learning Management System (LMS)</strong> built using the Full stack.
                 I enjoy contributing to open-source projects and always seek
                 opportunities to learn and grow as a developer.
               </p>
               <p className="text-justify ">
-                When I'm not developing web applications, you’ll find me
-                fine-tuning my motorcycle, exploring off-road trails, or
-                organizing spaces to create a productive environment. I also
-                enjoy occasional chess games with good company and dabble in SEO
-                and UI/UX research to stay informed on modern digital trends.
+                Enthusiastic about team sports with a passion for playing cricket,
+                and Keen interest in music as a listener. Also passionate about automobiles and vehicles, 
+                with curiosity for their mechanics, design, and innovation.
               </p>
             </div>
           </div>

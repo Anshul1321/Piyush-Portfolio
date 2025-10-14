@@ -12,6 +12,8 @@ import reduxImage from "../assets/images/redux.png";
 import figmaImage from "../assets/images/figma.webp";
 import expressImage from "../assets/images/express.png";
 import mongodbImage from "../assets/images/mongodb.png";
+import DjangoImage from "../assets/images/django.png";
+import MysqlImage from "../assets/images/mysql.png";
 
 const Skill = () => {
   return (
@@ -108,20 +110,36 @@ const Skill = () => {
             </p>
           </div>
 
-          {/* Firebase */}
+
+          {/* Django */}
           <div className="text-center">
             <img
-              src={firebaseImage}
-              alt="Firebase"
+              src={DjangoImage}
+              alt="Django"
               className="w-20 h-20 mx-auto mb-4"
             />
             <h3 className="text-lg font-semibold hover:text-primary cursor-pointer">
-              Firebase
+              Django
             </h3>
             <p className="text-sm text-secondary">
-              Backend-as-a-Service for fast app development
-            </p>
+              Building fast and secure web applications with Python            </p>
           </div>
+
+
+            {/* Mysql */}
+          <div className="text-center">
+            <img
+              src={MysqlImage}
+              alt="MySQL"
+              className="w-20 h-20 mx-auto mb-4"
+            />
+            <h3 className="text-lg font-semibold hover:text-primary cursor-pointer">
+              MySQL
+            </h3>
+            <p className="text-sm text-secondary">
+               Relational database for structured data storage and management            </p>
+          </div>
+
 
           {/* Redux */}
           <div className="text-center">
@@ -149,18 +167,19 @@ const Skill = () => {
             </p>
           </div>
 
-          {/* Figma */}
+         
+          {/* Firebase */}
           <div className="text-center">
             <img
-              src={figmaImage}
-              alt="Figma"
+              src={firebaseImage}
+              alt="Firebase"
               className="w-20 h-20 mx-auto mb-4"
             />
             <h3 className="text-lg font-semibold hover:text-primary cursor-pointer">
-              Figma
+              Firebase
             </h3>
             <p className="text-sm text-secondary">
-              UI/UX design and prototyping tool
+              Backend-as-a-Service for fast app development
             </p>
           </div>
         </div>

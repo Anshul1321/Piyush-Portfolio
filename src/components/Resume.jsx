@@ -1,5 +1,5 @@
 import React from "react";
-import AboutImage from "../assets/images/dp-kanch.jpg";
+import AboutImage from "../assets/images/dev-image.jpg";
 import { FaDev, FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 const Resume = () => {
@@ -21,7 +21,8 @@ const Resume = () => {
                 <li>Node.js</li>
                 <li>MongoDB</li>
                 <li>Express.js</li>
-                <li>Firebase</li>
+                <li>Django</li>
+                <li>MySQL</li>
                 <li>Redux</li>
                 <li>REST API</li>
                 <li>HTML, CSS, JavaScript</li>
@@ -31,16 +32,16 @@ const Resume = () => {
               <h3 className="text-2xl font-semibold text-secondary mt-8 mb-4 text-center">
                 Education
               </h3>
-              <p className="font-medium">Bachelors in Computer Application</p>
-              <p>Graduated from Loyola College (2022)</p>
+              <p className="font-medium">Bachelors of Engineering</p>
+              <p>Graduated from RGPV University (2022)</p>
 
               <h3 className="text-2xl font-semibold text-secondary mt-8 mb-4 text-center">
                 Certification
               </h3>
               <p className="font-medium">
-                Web Designing and Development (MERN Stack)
+                Full Stack Development (Scaler)
               </p>
-              <p> Certified from Web D School in (Nov 2024)</p>
+              <p> AWS Cloud Practitioner (Udemy)</p>
 
               <h3 className="text-2xl font-semibold text-secondary mt-8 mb-4 text-center">
                 Projects
@@ -49,44 +50,42 @@ const Resume = () => {
                 <li>
                   <a
                     className="text-primary"
-                    href="https://github.com/saam-rgb/Trailed-v2"
+                    href="https://github.com/Anshul1321/Trailed-PG.git"
                     target="_blank"
                     rel="noopener noreferrer">
                     Trailed
                   </a>{" "}
-                  - A task management app built with ReactJS, Node.js, MongoDB,
-                  and Express
+                  - A full-stack e-commerce app with features like add to cart, user authentication via Firebase.
                 </li>
                 <li>
                   <a
                     className="text-primary"
-                    href="https://github.com/saam-rgb/Sky-Freight"
+                    href="https://github.com/Anshul1321/Sky-Trans.git"
                     target="_blank"
                     rel="noopener noreferrer">
-                    SkyFreight
+                    SkyTrans
                   </a>{" "}
-                  - A responsive single-page website for an air cargo company
-                  built with ReactJS and Bootstrap
+                  - A flight cargo transport service with user-friendly design and responsive layout.
                 </li>
                 <li>
                   <a
                     className="text-primary"
-                    href="https://github.com/saam-rgb/ToDo-FlareLink"
+                    href="https://github.com/Anshul1321/flavoro-piyush.git"
                     target="_blank"
                     rel="noopener noreferrer">
-                    Todo Flarelist
+                   Flavoro Piyush
                   </a>{" "}
-                  - A to-do list application built with ReactJS and Tailwind CSS
+                  - An online food delivery platform that lets users browse foods, explore menus, and place orders seamlessly.
                 </li>
                 <li>
                   <a
-                    href="https://github.com/saam-rgb/Mowli-Bakery"
+                    href="https://github.com/Anshul1321/Backend-Ecommerce.git"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary">
-                    Mowli Bakery
+                   Ecommerce Backend
                   </a>{" "}
-                  - A bakery e-commerce app built with ReactJS and Firebase
+                  - A robust eCommerce backend built with Django and SQLite, featuring product management, user authentication, and order handling.
                 </li>
               </ul>
             </div>
@@ -99,41 +98,36 @@ const Resume = () => {
               alt="Saam Sheron"
               className="rounded-full object-cover w-48 h-48 mx-auto mb-6 border-4 border-primary"
             />
-            <p className="text-xl font-medium">Saam Sheron</p>
+            <p className="text-xl font-medium">Piyush Garg</p>
             <p className="text-lg text-secondary">
-              MERN Stack Developer | Software Developer
+              Full Stack Developer | Software Engineer
             </p>
             <a
               href="mailto:saam.sheron@example.com"
               className="text-lg text-primary mt-4 block">
-              saamsallvin@gmail.com
+              piyushgarg1321@gmail.com
             </a>
             {/* Social Links */}
             <div className="flex justify-center space-x-6 mt-6">
               <a
-                href="https://www.linkedin.com/in/saam-sheron"
+                href="https://www.linkedin.com/in/piyush-garg-4a0b68237"
                 target="_blank"
                 rel="noopener noreferrer">
                 <FaLinkedin className="text-2xl text-[#0077B5] hover:text-secondary" />
               </a>
               <a
-                href="https://github.com/saam-rgb"
+                href="https://github.com/Anshul1321"
                 target="_blank"
                 rel="noopener noreferrer">
                 <FaGithub className="text-2xl text-[#333] hover:text-secondary" />
               </a>
               <a
-                href="https://www.instagram.com/saam_sheron"
+                href="https://www.instagram.com/piyush_1321_?igsh=b29qdjFtcG1yeml3"
                 target="_blank"
                 rel="noopener noreferrer">
                 <FaInstagram className="text-2xl text-[#E4405F] hover:text-secondary" />
               </a>
-              <a
-                href="https://dev.to/saamsheron"
-                target="_blank"
-                rel="noopener noreferrer">
-                <FaDev className="text-2xl  hover:text-secondary" />
-              </a>
+             
             </div>
           </div>
         </div>

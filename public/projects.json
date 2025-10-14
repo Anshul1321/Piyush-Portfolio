@@ -3,63 +3,63 @@
     "name": "Trailed",
     "category": "fullStack",
     "description": "A full-stack e-commerce app with features like add to cart, user authentication via Firebase.",
-    "site": "https://trailed-v2.vercel.app/",
-    "github": "https://github.com/saam-rgb/Trailed-v2",
+    "site": "",
+    "github": "https://github.com/Anshul1321/Trailed-PG.git",
     "image": "trailed.png",
     "alt": "Trailed - Full-stack e-commerce app with cart features and Firebase authentication"
   },
   {
-    "name": "SkyFreight",
+    "name": "SkyTrans",
     "category": "frontend",
     "description": "A flight cargo transport service with user-friendly design and responsive layout.",
-    "site": "https://sky-freight.vercel.app/",
-    "github": "https://github.com/saam-rgb/Sky-Freight",
-    "image": "skyfreight.png",
-    "alt": "SkyFreight - Flight cargo transport service with responsive design"
+    "site": "https://sky-trans.vercel.app/",
+    "github": "https://github.com/Anshul1321/Sky-Trans.git",
+    "image": "skytrans.png",
+    "alt": "SkyTrans - Flight cargo transport service with responsive design"
   },
   {
-    "name": "Task Hub",
+    "name": "Flavoro Piyush",
     "category": "frontend",
-    "description": "A to-do list application to help users manage their tasks effectively.",
-    "site": "https://task-hub-saam.vercel.app/",
-    "github": "https://github.com/saam-rgb/ToDo-FlareLink",
-    "image": "taskhub.png",
-    "alt": "Task Hub - To-do list application for task management"
+    "description": "An online food delivery platform that lets users browse foods, explore menus, and place orders seamlessly.",
+    "site": "https://flavoro-piyush.vercel.app/",
+    "github": "https://github.com/Anshul1321/flavoro-piyush.git",
+    "image": "flavoro.png",
+    "alt": "Flavoro Piyush – Online food delivery platform for ordering meals easily."
   },
   {
-    "name": "News Ind",
-    "category": "frontend",
-    "description": "A news aggregation site to stay updated with the latest headlines.",
-    "site": "",
-    "github": "https://github.com/saam-rgb/NewsInd",
-    "image": "newsind.png",
-    "alt": "News Ind - News aggregation website for the latest headlines"
-  },
-  {
-    "name": "MongoDB CRUD",
+    "name": "Ecommerce Backend",
     "category": "backend",
-    "description": "A backend project that demonstrates CRUD operations with MongoDB.",
+    "description": "A robust eCommerce backend built with Django and SQLite, featuring product management, user authentication, and order handling.",
     "site": "",
-    "github": "https://github.com/saam-rgb/MongoDB-Data-Display",
-    "image": "mongocrud.png",
-    "alt": "MongoDB CRUD - Backend project demonstrating CRUD operations with MongoDB"
+    "github": "https://github.com/Anshul1321/Backend-Ecommerce.git",
+    "image": "ecommerce.png",
+    "alt": "Ecommerce Backend – Django and SQLite-based backend for managing products and orders."
   },
   {
-    "name": "Zoro.to",
-    "category": "uiUX",
-    "description": "UI/UX design for a mobile app interface using Figma.",
-    "site": "https://www.figma.com/proto/mKxES2Uumu51L7sVgOOdp1/Webd?page-id=1%3A398&node-id=1-400&viewport=454%2C997%2C0.36&t=JHVSjHan3mMLZaYV-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A400",
-    "github": "",
-    "image": "zoro.png",
-    "alt": "Zoro.to - UI/UX design for mobile app interface using Figma"
+    "name": "Medical Backend",
+    "category": "backend",
+    "description": "A backend medical page for booking doctor appointments and managing patient schedules easily.",
+    "site": "",
+    "github": "https://github.com/Anshul1321/Medical-backend.git",
+    "image": "appointments.png",
+    "alt": "A medical backend for booking doctor appointments and managing patient schedules easily."
   },
   {
-    "name": "Turf Town",
-    "category": "uiUX",
-    "description": "UI/UX design for a responsive website using Figma.",
-    "site": "https://www.figma.com/proto/mKxES2Uumu51L7sVgOOdp1/Webd?page-id=0%3A1&node-id=1-42&viewport=449%2C321%2C0.06&t=aVEBzd1oTUY5kZQm-1&scaling=scale-down-width&content-scaling=fixed",
-    "github": "",
-    "image": "turf.png",
-    "alt": "Turf Town - UI/UX design for responsive website using Figma"
+    "name": "Sky-Update",
+    "category": "frontend",
+    "description": "A responsive weather forecast app showing real-time temperature and conditions.",
+    "site": "https://sky-update-silk.vercel.app/",
+    "github": "https://github.com/Anshul1321/Weather-App.git",
+    "image": "weather.png",
+    "alt": "Sky-Update – Weather app displaying real-time forecasts and temperature updates."
+  },
+  {
+    "name": "Job Portal",
+    "category": "frontend",
+    "description": "A responsive job portal web app built with Firebase for job listing and data management.",
+    "site": "https://piyush-job-portal1.vercel.app/",
+    "github": "https://github.com/Anshul1321/Piyush-Job-Portal.git",
+    "image": "jobportal.png",
+    "alt": "Job Portal – Responsive web app using Firebase for job listings and user management."
   }
 ]

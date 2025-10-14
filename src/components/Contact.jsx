@@ -130,12 +130,12 @@ const Contact = () => {
           <p className="text-lg">
             Email:{" "}
             <a href="mailto:saamsallvin@gmail.com" className="text-primary">
-              saamsallvin@gmail.com
+              piyushgarg1321@gmail.com
             </a>
           </p>
           <p className="mt-4">
             <a
-              href="/Saam-Sheron-Software-dev.pdf"
+              href="https://in.docworkspace.com/d/sIITZ6JbPAcjc4MYG?sa=601.1074"
               target="_blank"
               rel="noopener noreferrer"
               className="text-lg text-primary underline hover:text-secondary transition duration-300">

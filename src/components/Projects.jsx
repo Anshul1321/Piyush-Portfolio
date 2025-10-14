@@ -74,15 +74,6 @@ const Projects = () => {
             onClick={() => filterProjects("backend")}>
             Backend
           </button>
-          <button
-            className={`px-6 py-2 mx-2 rounded ${
-              selectedCategory === "uiUX"
-                ? "bg-primary text-white"
-                : "bg-white text-primary"
-            }`}
-            onClick={() => filterProjects("uiUX")}>
-            UI/UX
-          </button>
         </div>
 
         {/* Projects */}
