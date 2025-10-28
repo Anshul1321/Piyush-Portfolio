@@ -135,7 +135,7 @@ const Contact = () => {
           </p>
           <p className="mt-4">
             <a
-              href="https://in.docworkspace.com/d/sIITZ6JbPAcjc4MYG?sa=601.1074"
+              href="https://www.canva.com/design/DAG2-ERpFnI/yHyGRXR0w7hAjjH1BaCo6w/view?utm_content=DAG2-ERpFnI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6b25ff6547"
               target="_blank"
               rel="noopener noreferrer"
               className="text-lg text-primary underline hover:text-secondary transition duration-300">

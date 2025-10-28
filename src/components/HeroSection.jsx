@@ -1,4 +1,5 @@
 import React from "react";
+import TextType from "./TextType";
 
 const HeroSection = () => {
   return (
@@ -10,9 +11,18 @@ const HeroSection = () => {
             <h1 className="text-4xl font-bold text-secondary mb-4 md:mt-0 mt-6 ">
               Piyush Garg
             </h1>
-            <p className="text-xl font-semibold text-[#606060] mb-4">
-              Full Stack Developer
-            </p>
+            
+            {/* Animated Text Type Effect */}
+            <div className="text-xl font-semibold text-[#606060] mb-4 h-8">
+              <TextType
+                text={["Full Stack Developer","Full Stack Developer","Full Stack Developer"]}
+                typingSpeed={75}
+                pauseDuration={1500}
+                showCursor={true}
+                cursorCharacter=""
+              />
+            </div>
+
             <p className="text-secondary mb-6 text-justify">
               I believe great things can be achieved through the use of
               technology and research. But those are merely the tools. Behind
@@ -21,7 +31,7 @@ const HeroSection = () => {
             </p>
             {/* Call to Action Button */}
             <a
-              href=""
+              href="https://www.canva.com/design/DAG2-ERpFnI/yHyGRXR0w7hAjjH1BaCo6w/view?utm_content=DAG2-ERpFnI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6b25ff6547"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 py-3 bg-primary text-white rounded-lg shadow-md hover:bg-[#F4F4F4] hover:text-primary hover:border-primary border transition-all"
