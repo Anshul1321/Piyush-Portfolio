@@ -18,6 +18,15 @@
     "alt": "SkyTrans - Flight cargo transport service with responsive design"
   },
   {
+    "name": "React Interview Prep",
+    "category": "frontend",
+    "description": "A comprehensive React learning platform featuring 20+ real-time practical coding challenges with complete solutions.",
+    "site": "https://react-interview-challenges-ten.vercel.app/",
+    "github": "https://github.com/Anshul1321/React-Interview-Challenges.git",
+    "image": "react-interview.png",
+    "alt": "React Interview Prep platform with purple gradient background displaying challenge categories and navigation"
+  },
+  {
     "name": "Flavoro Piyush",
     "category": "frontend",
     "description": "An online food delivery platform that lets users browse foods, explore menus, and place orders seamlessly.",
